@@ -82,7 +82,7 @@ An empathy exercise using <a href="https://www.mural.co">MURAL</a>, a digital co
 
 **Example:**
 
-<img src="sticky-example.png" alt="Example stickies" width="600"/>
+<img src="sticky-example.png" alt="Example stickies" width="800"/>
 
 <p>&nbsp;</p>
 
