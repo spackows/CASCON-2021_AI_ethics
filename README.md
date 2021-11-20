@@ -1,15 +1,21 @@
-# CASCON 2021 Expo
+# AI ethics: From top-down to bottom-up
+
 Sarah Packowski ( spackows@ca.ibm.com )<br/>
 Heather Hagerty ( hhagerty@us.ibm.com )<br/>
 Richard Walls ( Richard.Walls@ibm.com )<br/>
 Sara Elsharawy ( saraelsh@ibm.com )
 
+This repo contains samples and supporting information for an expo at **CASCON x EVOKE 2021**.
+
+**Links:** 
+- [Expo session](https://pheedloop.com/casconevoke2021/site/sessions/?id=SESSL97RWPH19COEC)
+- [CASCON x EVOKE 2021](https://pheedloop.com/casconevoke2021/site/home)
+- [IBM Canada Advanced Studies](https://www-01.ibm.com/ibm/cas/canada)
+
 <p>&nbsp;</p>
 
 
-## [Video] 
-
-### AI ethics: From top-down to bottom-up
+## [Video]
 
 **Watch:** [CASCON-AI-Ethics-Expo](https://raw.githubusercontent.com/spackows/CASCON-2021_AI_ethics/main/CASCON-AI-Ethics-Expo.mp4)
 
