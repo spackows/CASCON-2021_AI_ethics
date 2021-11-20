@@ -27,10 +27,10 @@ Images used in the video:
 
 ## [Samples]
 
-- [Sample 1: Warm up activity]()
-- [Sample 2: Empathy exercise]()
-- [Sample 3: Interview email]()
-- [Sample 4: "Voices" meetings analysis]()
+- [Sample 1: Warm up activity](#sample-1-warm-up-activity)
+- [Sample 2: Empathy exercise](#sample-2-empathy-exercise)
+- [Sample 3: Interview email](#sample-3-interview-email)
+- [Sample 4: Meeting analysis](#sample-4-meeting-analysis)
 
 <p>&nbsp;</p>
 
@@ -117,14 +117,14 @@ When people agreed to participate in an interview, we sent then an email in adva
 <p>&nbsp;</p>
 
 
-### Sample 4: "Voices" meetings analysis
+### Sample 4: Meeting analysis
 A Python notebook demonstrating how to measure the amount of time participants speak in a meeting.
 
 **Link:** [CASCON-sample-meeting-voices.ipynb](https://github.com/spackows/CASCON-2021_AI_ethics/blob/main/CASCON-sample-meeting-voices.ipynb)
 
 <img src="speaking-time.png" alt="Example stickies" width="600"/>
 
-In general, for a collabroative type of meeting, it is desireable to hear from all participants somewhat equally. Also, it is potentially problematic when the same small number of people dominate discussions in meetings over time.
+In general, for a collaborative type of meeting, it is desirable to hear from all participants somewhat equally. Also, it is potentially problematic when the same small number of people dominate discussions in meetings over time.
 
 The goal of analyzing meeting speaking time is to measure how balanced meeting discussions are, based on the amount of time participants speak in the meeting.  Meeting chairs could track this analysis over time as they experiment with changing how they manage meetings to give everybody a chance to have their voice heard.
 
@@ -140,7 +140,7 @@ The goal of analyzing meeting speaking time is to measure how balanced meeting d
 <p>In Watson Studio, create a project.  See: <a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/projects.html?context=cpdaas&audience=wdp">Creating a project</a></p>
 </li>
 <li>
-<p>In Watson Studio, create a notebook from the sample:</p>
+<p>In your project, create a notebook from the sample notebook URL:</p>
 <ol>
 <li>Click "Add to project" and then select "Notebook"</li>
 <li>Navigate to the "From URL" tab in the "New notebook" page</li>
@@ -152,7 +152,7 @@ The goal of analyzing meeting speaking time is to measure how balanced meeting d
 </ol>
 </li>
 <li>
-<p></p>
+<p>In the notebook, run the Python code by clicking on cells containing code and then clicking "Run".</p>
 </li>
 </ol>
 
