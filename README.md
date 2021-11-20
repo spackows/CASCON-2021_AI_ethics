@@ -27,10 +27,20 @@ Images used in the video:
 
 ## [Samples]
 
+- [Sample 1: Warm up activity]()
+- [Sample 2: Empathy exercise]()
+- [Sample 3: Interview email]()
+- [Sample 4: "Voices" meetings analysis]()
+
+<p>&nbsp;</p>
+
+
 ### Sample 1: Warm up activity
 A warm-up activity using <a href="https://www.mural.co">MURAL</a>, a digital collaboration tool.
 
 **Link:** [MURAL_Warm-up.pdf](https://github.com/spackows/CASCON-2021_AI_ethics/blob/main/MURAL_Warm-up.pdf)
+
+<img src="warm-up.png" alt="Warm up activity" width="500"/>
 
 **Instructions:** Participants read each of the four prompts and then paste sticky notes with their own reflections on the prompts.
 
@@ -66,6 +76,8 @@ An empathy exercise using <a href="https://www.mural.co">MURAL</a>, a digital co
 
 **Link:** [MURAL_Exercise-Parts-1-and-2.pdf](https://github.com/spackows/CASCON-2021_AI_ethics/blob/main/MURAL_Exercise-Parts-1-and-2.pdf)
 
+<img src="empathy-exercise.png" alt="Empathy exercise" width="600"/>
+
 **Instructions:** Participants put themselves in the shoes of team members in different roles, to empathize with those team members and to better understand why people do what they do.
 
 - Step 1: Participants listen to a description of a real-world example about a team navigating an issue of AI ethics.[1]
@@ -85,6 +97,67 @@ An empathy exercise using <a href="https://www.mural.co">MURAL</a>, a digital co
 <img src="sticky-example.png" alt="Example stickies" width="800"/>
 
 <p>&nbsp;</p>
+
+
+### Sample 3: Interview email
+A sample email template we send to people who have agreed to participate in an interview with us about AI ethics.
+
+**Link:** [Sample interview email](https://github.com/spackows/CASCON-2021_AI_ethics/blob/main/Sample-interview-email.md)
+
+We want to design systems to help teams avoid ethical pitfalls.  And to make sure people will actually use them, we need to design systems and tools that fit in with how people already like to work and tools they already use.
+
+So we set out to interview our fellow IBMers, people in many different roles, to learn their perspective:
+- How do they work today?
+- What processes and tools do they use?
+- What are their challenges?
+- What motivates them?
+
+When people agreed to participate in an interview, we sent then an email in advance that explains the project and lists the questions we would be asking.  We wanted people to know the questions, so they could think about their answers beforehand, without the time pressure of the interview itself.
+
+<p>&nbsp;</p>
+
+
+### Sample 4: "Voices" meetings analysis
+A Python notebook demonstrating how to measure the amount of time participants speak in a meeting.
+
+**Link:** [CASCON-sample-meeting-voices.ipynb](https://github.com/spackows/CASCON-2021_AI_ethics/blob/main/CASCON-sample-meeting-voices.ipynb)
+
+<img src="speaking-time.png" alt="Example stickies" width="600"/>
+
+In general, for a collabroative type of meeting, it is desireable to hear from all participants somewhat equally. Also, it is potentially problematic when the same small number of people dominate discussions in meetings over time.
+
+The goal of analyzing meeting speaking time is to measure how balanced meeting discussions are, based on the amount of time participants speak in the meeting.  Meeting chairs could track this analysis over time as they experiment with changing how they manage meetings to give everybody a chance to have their voice heard.
+
+**Instructions:** Follow these steps to use the sample notebook in IBM Watson Studio
+<ol>
+<li>
+<p>Register for a free IBM Cloud account: <a href="https://cloud.ibm.com/registration">https://cloud.ibm.com/registration</a></p>
+</li>
+<li>
+<p>Create a free ("Lite" plan) instance of the Watson Studio service: <a href="https://cloud.ibm.com/catalog/services/watson-studio">https://cloud.ibm.com/catalog/services/watson-studio</a></p>
+</li>
+<li>
+<p>In Watson Studio, create a project.  See: <a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/projects.html?context=cpdaas&audience=wdp">Creating a project</a></p>
+</li>
+<li>
+<p>In Watson Studio, create a notebook from the sample:</p>
+<ol>
+<li>Click "Add to project" and then select "Notebook"</li>
+<li>Navigate to the "From URL" tab in the "New notebook" page</li>
+<li>In the "Name" field, enter a name of your choosing</li>
+<li>Accept the default runtime (don't change anything in the "Select runtime" field)</li>
+<li>In the "Notebook URL" field, paste this value: 
+<pre>https://raw.githubusercontent.com/spackows/CASCON-2021_AI_ethics/main/CASCON-sample-meeting-voices.ipynb</pre></li>
+<li>Click "Create"</li>
+</ol>
+</li>
+<li>
+<p></p>
+</li>
+</ol>
+
+<p>&nbsp;</p>
+
 
 
 
